@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Estelle!
 - 👀 I’m interested in Languages in general, whether computer languages or human languages, speaking French, Spanish, German as well as English.
-- 🌱 I’m currently learning JavaScript with CodeForGirls. Learning HTML, CSS and React.js on LInkedIn Learning.
+- 🌱 I’m currently on the Code First Girls Product Management course. I have been learning JavaScript, HTML, CSS, Python, Agile and Scrum with CodeForGirls.
 - 💞️ I’m looking to collaborate on front-end projects. 
 - 📫 How to reach me: estellewraight@gmail.com
 
