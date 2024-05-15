@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Estelle!
 - 👀 I’m interested in Languages in general, whether computer languages or human languages, speaking French, Spanish, German as well as English.
 - 🌱 I’m currently on the Code First Girls Product Management course. I have been learning JavaScript, HTML, CSS, Python, Agile and Scrum with CodeForGirls.
-- 💞️ I’m looking to collaborate on front-end projects. 
+- 💞️ I’m looking to collaborate on front-end projects and learn more about Product Management. 
 - 📫 How to reach me: estellewraight@gmail.com
 
 <!---
