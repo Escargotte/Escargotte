@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Estelle!
-- 👀 I’m interested in Languages in general, whether computer languages or human languages, speaking French, Spanish, German as well as English.
-- 🌱 I’m currently on the Code First Girls Product Management course. I have been learning JavaScript, HTML, CSS, Python, Agile and Scrum with CodeForGirls.
-- 💞️ I’m looking to collaborate on front-end projects and learn more about Product Management. 
-- 📫 How to reach me: estellewraight@gmail.com
-
-<!---
-Escargotte/Escargotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# About me
+👋 Hi, I’m Estelle!
+🌱 I’m currently on the Code First Girls Product Management course, I have also been learning JavaScript, HTML, CSS, Python, Agile and Scrum with CodeForGirls.
+✨ Ask me anything about linguistics and literature, travelling, vitiligo, neurodivergence, yoga and crochet Arugami Star Wars characters!
+💞️ I’m a career-switching teacher and a mature student. I won't tell my real age, but I ~~am a Millenial~~ was born last century, as I like to tell my two children! I am a facilitator and an empath.
+📫 How to reach me: estellewraight@gmail.com and https://www.linkedin.com/in/estelle-wraight-41422b47/
 --->
