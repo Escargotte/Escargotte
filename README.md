@@ -19,11 +19,3 @@ Here are some of my Javascript projects:
 * [age game](https://codepen.io/Estelle-Wraight/pen/RwvWWev)
 + And our [final project](https://codepen.io/Estelle-Wraight/pen/yLZdOMw) which I translated in French, if you are brave enough!
 
-# GitHub project
-I'll use GitHub to make changes to a Meal Generator project
-[x} Checking the status
-[x] Creating a branch
-[x] Adding files to a branch
-[x] Adding commits with meaningful messages
-[x] Opening a pull request
-[x] Merging and deploying to main branch
